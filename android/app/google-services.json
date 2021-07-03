@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457377367118",
+    "project_id": "mealsinai",
+    "storage_bucket": "mealsinai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457377367118:android:68cd25c9bf9059733eef1f",
+        "android_client_info": {
+          "package_name": "com.example.meal_sinai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457377367118-fglct4390suf2cj9ok0ubj0sknh0ah5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0M7Tvwyx14TCMqQ0LG6HEy3EwEk2ZSx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457377367118-fglct4390suf2cj9ok0ubj0sknh0ah5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
